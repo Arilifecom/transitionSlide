@@ -1,4 +1,4 @@
-import TransitionEffect from "@/compornents/transitionEffect";
+import TransitionEffect from "@/compornents/TransitionEffect";
 import Head from "next/head";
 
 export default function Home() {
